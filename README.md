@@ -5,3 +5,6 @@ The Speed Calculator is a tool designed to help analyze data from a Picoscope 7 
 In addition to calculating the speed, this tool can also calculate the kinetic energy of an object by its mass. The speed of the mass will be calculated based on the distance and time entered earlier.
 
 -Rossco
+
+
+https://airgunforums.co.uk/threads/hw77-indepth-tuning.125540/
